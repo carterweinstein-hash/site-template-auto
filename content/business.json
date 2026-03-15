@@ -1,0 +1,56 @@
+{
+  "business_name": "Quick Fix Auto Repair",
+  "tagline": "Dallas's Most Trusted Auto Shop",
+  "phone": "(214) 555-0456",
+  "email": "info@quickfixauto.com",
+  "address": "7890 Greenville Ave",
+  "city": "Dallas",
+  "state": "TX",
+  "zip": "75231",
+  "hero_headline": "Get Back on the Road Fast in Dallas",
+  "hero_subtext": "Honest auto repair and body work for every make and model. No surprises, no upsells, just good work at fair prices.",
+  "cta_text": "Schedule Your Repair Today",
+  "services": [
+    {
+      "name": "Brake Repair",
+      "description": "Squealing, grinding, or soft pedal? We diagnose and fix brake issues fast with quality parts. Your safety is our top priority.",
+      "icon": "🛞"
+    },
+    {
+      "name": "Engine Diagnostics",
+      "description": "Check engine light on? Our advanced diagnostic tools pinpoint the problem so you only pay for what needs fixing. No guesswork.",
+      "icon": "🔧"
+    },
+    {
+      "name": "Oil Change & Tune-Up",
+      "description": "Keep your engine running smooth with regular oil changes and tune-ups. We use manufacturer-recommended fluids and filters.",
+      "icon": "🛢️"
+    },
+    {
+      "name": "Body Work & Paint",
+      "description": "From minor dents to full collision repair, our body shop restores your vehicle to showroom condition. Color-matched paint guaranteed.",
+      "icon": "🎨"
+    },
+    {
+      "name": "Transmission Service",
+      "description": "Slipping gears or rough shifting? We service and repair both automatic and manual transmissions to keep you driving smooth.",
+      "icon": "⚙️"
+    }
+  ],
+  "about_headline": "Honest Work. Fair Prices.",
+  "about_text": "We've been fixing cars in Dallas for over 15 years. Our ASE-certified mechanics treat every vehicle like their own. No unnecessary repairs, no surprise charges.",
+  "why_us_points": [
+    "ASE-Certified Mechanics",
+    "Free Estimates on All Repairs",
+    "12-Month / 12,000-Mile Warranty"
+  ],
+  "service_area": "Dallas and surrounding areas",
+  "gallery_images": [],
+  "primary_color": "#dc2626",
+  "secondary_color": "#374151",
+  "meta_title": "Quick Fix Auto Repair | Dallas TX Auto Shop & Body Work",
+  "meta_description": "Trusted auto repair in Dallas, TX. Brake repair, engine diagnostics, body work. ASE-certified. Call (214) 555-0456.",
+  "schema_type": "AutoRepair",
+  "google_maps_embed_url": "",
+  "formspree_endpoint": ""
+}
